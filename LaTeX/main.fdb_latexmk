@@ -1,7 +1,7 @@
 # Fdb version 3
-["pdflatex"] 1664869372 "/Users/viktoropdebeeck/Documents/GitHub/Thesis/LaTeX/main.tex" "/Users/viktoropdebeeck/Documents/GitHub/Thesis/LaTeX/main.pdf" "main" 1664869372
-  "/Users/viktoropdebeeck/Documents/GitHub/Thesis/LaTeX/main.aux" 1664869372 440 613488a741d8df05244653567d5d9e2f ""
-  "/Users/viktoropdebeeck/Documents/GitHub/Thesis/LaTeX/main.tex" 1664869317 534 25bc888ac50674cb519b3ea122e9f84c ""
+["pdflatex"] 1665850668 "/Users/viktoropdebeeck/Documents/GitHub/Thesis/LaTeX/main.tex" "/Users/viktoropdebeeck/Documents/GitHub/Thesis/LaTeX/main.pdf" "main" 1665850669
+  "/Users/viktoropdebeeck/Documents/GitHub/Thesis/LaTeX/main.aux" 1665850669 645 1342f72285ee235c72756d0d5ce69e65 ""
+  "/Users/viktoropdebeeck/Documents/GitHub/Thesis/LaTeX/main.tex" 1665850668 1261 99bc0cdeed8279581f63528930c139aa ""
   "/usr/local/texlive/2020/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
   "/usr/local/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1246382020 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -9,6 +9,7 @@
   "/usr/local/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam7.tfm" 1246382020 928 2dc8d444221b7a635bb58038579b861a ""
   "/usr/local/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm" 1246382020 908 2921f8a10601f252058503cc6570e581 ""
   "/usr/local/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7.tfm" 1246382020 940 228d6584342e91276bf566bcf9716b83 ""
+  "/usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1136768653 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "/usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1136768653 1324 c910af8c371558dc20f2d7822f66fe64 ""
   "/usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmex10.tfm" 1136768653 992 662f679a0b3d2d53c1b94050fdaa3f50 ""
   "/usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm" 1136768653 1524 4414a8315f39513458b80dfc63bff03a ""
@@ -21,6 +22,7 @@
   "/usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm" 1136768653 1124 6c73e740cf17375f03eec0ee63599741 ""
   "/usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm" 1136768653 1116 933a60c408fc0a863a92debe84b2d294 ""
   "/usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm" 1136768653 1120 8b7d695260f3cff42e636090a8002094 ""
+  "/usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb" 1248133631 34811 78b52f49e893bcba91bd7581cdc144c0 ""
   "/usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb" 1248133631 32080 340ef9bf63678554ee606688e7b5339d ""
   "/usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1248133631 35752 024fb6c41858982481f6968b5fc26508 ""
   "/usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb" 1248133631 32722 d7379af29a190c3f453aba36302ff5a9 ""
@@ -57,11 +59,11 @@
   "/usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1608815329 5049295 172cc82189fa6e68304fe51818d032a5 ""
   "/usr/local/texlive/2020/texmf-var/web2c/pdftex/pdflatex.fmt" 1608815486 2553349 cb59267f0c109fec3f527e29513c9640 ""
   "/usr/local/texlive/2020/texmf.cnf" 1586288231 577 d60164b4589a341208aff7a667fbbdcb ""
-  "main.aux" 1664869372 440 613488a741d8df05244653567d5d9e2f "pdflatex"
-  "main.tex" 1664869317 534 25bc888ac50674cb519b3ea122e9f84c ""
+  "main.aux" 1665850669 645 1342f72285ee235c72756d0d5ce69e65 "pdflatex"
+  "main.tex" 1665850668 1261 99bc0cdeed8279581f63528930c139aa ""
   (generated)
-  "main.aux"
   "/Users/viktoropdebeeck/Documents/GitHub/Thesis/LaTeX/main.pdf"
-  "main.pdf"
-  "main.log"
   "/Users/viktoropdebeeck/Documents/GitHub/Thesis/LaTeX/main.log"
+  "main.log"
+  "main.pdf"
+  "main.aux"

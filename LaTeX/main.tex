@@ -17,6 +17,18 @@
 Fortran is a general-purpose, compiled imperative programming language that is especially suited to numeric computation and scientific computing.
 \\
 What does compiled and imperative mean?
-\subsection{3+1 Decomposition}
 
+How do you run a program using modules?
+
+gfortran my\_mod.f90 gives error.\\
+gfortran -c my\_mod.f90 seems to work.\\
+gfortran -c use\_mod.f90 -o use\_mod seems to work.\\
+./use\_mod states that permission is denied.
+
+\subsection{3+1 Decomposition}
+\subsection{Gmunu}
+What differenciates Gmunu from other existing relativistic hydrodynamics code?
+Most code are based on solving hyperbolic equations whereas Gmunu solves elliptic metric equations. Elliptic equations are more computationally expensive than hyperbolic equations.
+\subsubsection{Multigrid}
+Multigrid methods vary the discretizationsteps of numerical solutions of differential equations saving computational power on less relevant grid points and increasing resolution on high gradient regions.
 \end{document}
